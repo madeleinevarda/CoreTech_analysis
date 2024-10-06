@@ -15,11 +15,11 @@ Body Text
 ## Sales Trends 
 Body Text 
 
-##Product Trends
+## Product Trends
 Body Text 
 
-##Loyalty Program
+## Loyalty Program
 Body Text 
 
-##Refund Rates
+## Refund Rates
 Body Text 
