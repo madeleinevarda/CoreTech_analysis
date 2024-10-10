@@ -4,8 +4,9 @@ elist is a global e-commerce company that has sold more than 100K orders of popu
 ## ERD
 <img width="450" alt="ERD" src="https://github.com/user-attachments/assets/5add595f-9347-4568-9dd6-7f7e6e8297c3">
 
-
 ## Data Cleaning Log
+
+![image](https://github.com/user-attachments/assets/088d8c77-f01f-4890-b2ff-21ddb7934ecf)
 
 # Deep-Dive Insights
 Body Text 
