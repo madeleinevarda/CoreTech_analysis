@@ -1,7 +1,4 @@
 # elist_analysis
-Sales trend analysis for e-commerce company.
-
-# Overview
 elist is a global e-commerce company that has sold more than 100K orders of popular electronics since its inception in 2019. To support their growth, I performed an exploratory analysis of their under-utilized core marketing data, investigating yearly sales trends, product performance, marketing channel efficiency, and loyalty program efficacy. This analysis was prepared for presentation to key stakeholders to drive informed company recommendations.
 
 ## ERD
