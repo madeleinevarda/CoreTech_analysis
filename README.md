@@ -13,6 +13,7 @@ The project provides insights and recommendations on the following key areas:
 
 **Marketing Channel Effectiveness** - Analysis of various marketing channels and their return on investment.
 
+
 The SQL queries performed to uncover these general insights are found here.
 
 Targeted SQL queries relating to these categories can also be found here.
