@@ -3,10 +3,14 @@ elist is a global e-commerce company that has sold more than x DOLLARS of popula
 
 The project provides insights and recommendations on the following key areas:
 
-****Sales Trends** - Focused on Revenue, Orders Placed, and Average Order Value (AOV).
-Product Performance** - An analysis of different product lines and their market impact.
+**Sales Trends** - Focused on Revenue, Orders Placed, and Average Order Value (AOV).
+
+**Product Performance** - An analysis of different product lines and their market impact.
+
 **Loyalty Programme Performance**- Assessment of the loyalty programme's effectiveness and its future.
+
 **Operational Effectiveness** - Evaluation of logistics and operational efficiency.
+
 **Marketing Channel Effectiveness** - Analysis of various marketing channels and their return on investment.
 
 The SQL queries performed to uncover these general insights are found here.
