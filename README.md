@@ -25,3 +25,15 @@ Body Text
 
 # Recommendations
 Body Text
+
+## Sales 
+Body Text
+
+## Product 
+Body Text
+
+## Loyalty 
+Body Text
+
+## Refund 
+Body Text
