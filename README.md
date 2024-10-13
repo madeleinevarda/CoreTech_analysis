@@ -1,5 +1,5 @@
 # elist_analysis
-elist is a global e-commerce company that has sold more than x DOLLARS of popular electronics since its inception in 2019. The company has vast amounts of data on its sales, marketing efforts, operational effectiveness, product offerings, and loyalty program. This data, previously underutilized, is now being thoroughly analysed to uncover critical insights aimed at enhancing elist commercial performance. This analysis was prepared for presentation to key stakeholders to drive informed company recommendations.
+elist is a global e-commerce company that has sold more than X dollars of popular electronics since its inception in 2019. With vast amounts of previously underutilized data on sales, product offerings, the loyalty program, and refunds, we are now thoroughly analyzing this information to uncover critical insights. This analysis aims to enhance elist's commercial performance and is prepared for presentation to key stakeholders to drive informed company recommendations.
 
 The project provides insights and recommendations on the following key areas:
 
@@ -7,11 +7,9 @@ The project provides insights and recommendations on the following key areas:
 
 **Product Performance** - An analysis of different product lines and their market impact.
 
-**Loyalty Programme Performance**- Assessment of the loyalty programme's effectiveness and its future.
+**Loyalty Program Performance**- Assessment of the loyalty program's effectiveness and its future.
 
-**Operational Effectiveness** - Evaluation of logistics and operational efficiency.
-
-**Marketing Channel Effectiveness** - Analysis of various marketing channels and their return on investment.
+**Refunds** - Evaluation of return rates and products.
 
 
 The SQL queries performed to uncover these general insights are found here.
