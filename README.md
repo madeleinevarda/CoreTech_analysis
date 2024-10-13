@@ -22,3 +22,6 @@ Body Text
 
 ## Refund Rates
 Body Text 
+
+# Recommendations
+Body Text
