@@ -1,5 +1,5 @@
 # elist_analysis
-elist is a global e-commerce company that has sold more than x DOLLARS of popular electronics since its inception in 2019. The company has vast amounts of data on its sales, marketing efforts, operational effectiveness, product offerings, and loyalty program. This data, previously underutilised, is now being thoroughly analysed to uncover critical insights aimed at enhancing elist commercial performance. This analysis was prepared for presentation to key stakeholders to drive informed company recommendations.
+elist is a global e-commerce company that has sold more than x DOLLARS of popular electronics since its inception in 2019. The company has vast amounts of data on its sales, marketing efforts, operational effectiveness, product offerings, and loyalty program. This data, previously underutilized, is now being thoroughly analysed to uncover critical insights aimed at enhancing elist commercial performance. This analysis was prepared for presentation to key stakeholders to drive informed company recommendations.
 
 The project provides insights and recommendations on the following key areas:
 
