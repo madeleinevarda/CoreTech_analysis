@@ -23,8 +23,6 @@ Targeted SQL queries relating to these categories can also be found here.
 
 ![image](https://github.com/user-attachments/assets/088d8c77-f01f-4890-b2ff-21ddb7934ecf)
 
-******Nulls where dates were not recorded have been removed from this analysis as they account for less than X% of total sales. 
-
 # Deep-Dive Insights
 
 ## Sales Trends 
