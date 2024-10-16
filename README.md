@@ -16,11 +16,12 @@ The SQL queries performed to uncover these insights are found here.
 
 
 ## ERD
-<img width="450" alt="ERD" src="https://github.com/user-attachments/assets/5add595f-9347-4568-9dd6-7f7e6e8297c3">
+<img width="500" alt="ERD" src="https://github.com/user-attachments/assets/5add595f-9347-4568-9dd6-7f7e6e8297c3">
 
 ## Data Cleaning Log
 
-<img width="450" alt="Screenshot 2024-10-16 173607" src="https://github.com/user-attachments/assets/5bf0d35f-2de6-44a5-8543-a1fc79a8eeca">
+<img width="900" alt="Screenshot 2024-10-16 174652" src="https://github.com/user-attachments/assets/88e3da45-4011-498f-8829-75777f9d6b38">
+
 
 # Deep-Dive Insights
 
@@ -28,8 +29,7 @@ The SQL queries performed to uncover these insights are found here.
 
 Seasonality - On average Feb and Oct performed the worst from the month before, keeping in mind that Dec and Jan have high average sales because of the holiday season
 
-![Screenshot 2024-10-16 2000](https://github.com/user-attachments/assets/4caa50db-9995-4ec0-a2fc-2612c4660aeb)
-
+<img width="450" alt="Screenshot 2024-10-16 173607" src="https://github.com/user-attachments/assets/c3b9c602-e53b-4279-bd12-3351cfe2f8b1">
 
 ## Product Trends
 Body Text 
