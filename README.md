@@ -20,7 +20,7 @@ The SQL queries performed to uncover these insights are found here.
 
 ## Data Cleaning Log
 
-![image](https://github.com/user-attachments/assets/088d8c77-f01f-4890-b2ff-21ddb7934ecf)
+<img width="320" alt="Screenshot 2024-10-16 173607" src="https://github.com/user-attachments/assets/5bf0d35f-2de6-44a5-8543-a1fc79a8eeca">
 
 # Deep-Dive Insights
 
