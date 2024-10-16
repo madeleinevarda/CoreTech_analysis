@@ -25,7 +25,8 @@ The SQL queries performed to uncover these insights are found here.
 # Deep-Dive Insights
 
 ## Sales Trends 
-Body Text 
+
+Seasonality - On average Feb and Oct performed the worse from the month before, keeping in mind that Dec and Jan have high average sales because of the holiday season
 
 ## Product Trends
 Body Text 
