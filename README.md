@@ -29,7 +29,8 @@ The SQL queries performed to uncover these insights are found here.
 
 Seasonality - On average Feb and Oct performed the worst from the month before, keeping in mind that Dec and Jan have high average sales because of the holiday season
 
-<img width="450" alt="Screenshot 2024-10-16 173607" src="https://github.com/user-attachments/assets/c3b9c602-e53b-4279-bd12-3351cfe2f8b1">
+<img width="500" alt="Screenshot 2024-10-16 174908" src="https://github.com/user-attachments/assets/ca60ced3-0003-4585-8ffd-29b96325d993">
+
 
 ## Product Trends
 Body Text 
