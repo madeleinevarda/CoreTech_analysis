@@ -29,7 +29,8 @@ The SQL queries performed to uncover these insights are found here.
 
 Seasonality - On average Feb and Oct performed the worst from the month before, keeping in mind that Dec and Jan have high average sales because of the holiday season. In 2020 March perfromed 50% more in sales than Feb. However, this is not representative of our normal trends from 2019-2022 where March usually has a slight lift over Feb.
 
-<img width="450" alt="Screenshot 2024-10-16 204837" src="https://github.com/user-attachments/assets/d8bf82d2-dde1-4a2b-bf61-5083403d0781">
+
+<img width="450" alt="Screenshot 2024-10-16 205022" src="https://github.com/user-attachments/assets/a422f168-2351-4c6a-82ca-dadf53214d78">
 
 
 ## Product Trends
