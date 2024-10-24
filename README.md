@@ -15,9 +15,6 @@ The data cleaning change log can be found [here](https://github.com/madeleinevar
 
  The SQL queries performed to uncover these insights are found here.
 
-## ERD
-<img width="500" alt="ERD" src="https://github.com/user-attachments/assets/5add595f-9347-4568-9dd6-7f7e6e8297c3">
-
 # Deep-Dive Insights
 
 ## Sales Trends 
