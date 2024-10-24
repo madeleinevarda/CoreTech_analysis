@@ -41,7 +41,7 @@ In an aggregate of the past four years, the non-loyalty program ($17M) generally
 
 Average Order Value (AOV) for the loyalty program outpaced the non-loyalty program in 2022. The he loyalty program's AOV has been steadily growing, whereas the non-loyalty program's AOV has shown more volatility.
 
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/87090c5e-6aef-4b53-ac4b-e91c6b8cf24c">
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/87090c5e-6aef-4b53-ac4b-e91c6b8cf24c">
 
 ## Refund Rates
 Body Text 
