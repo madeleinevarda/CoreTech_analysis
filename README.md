@@ -39,7 +39,7 @@ In an aggregate of total sales over the past four years, the non-loyalty program
 
 <img width="450" alt="Screenshot 2024-10-24 184756" src="https://github.com/user-attachments/assets/54165ca8-94b2-4811-8074-a64dc5b6fc5c">
 
-Average Order Value (AOV) for the loyalty program outpaced the non-loyalty program in 2022. The he loyalty program's AOV has been steadily growing, whereas the non-loyalty program's AOV has shown more volatility.
+Average Order Value (AOV) for the loyalty program outpaced the non-loyalty program in 2022. The loyalty program's AOV has been steadily growing, whereas the non-loyalty program's AOV has shown more volatility.
 
 <img width="550" alt="image" src="https://github.com/user-attachments/assets/87090c5e-6aef-4b53-ac4b-e91c6b8cf24c">
 
