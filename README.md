@@ -36,7 +36,7 @@ Seasonality: Typically, February and October underperform compared to the preced
 Body Text 
 
 ## Loyalty Program
-Total revenue and AOV are the most important metrics to show here. In an aggregate of the past 4 years, the non-loyalty program generally outperformed the loyalty program. However, a closer look at the trends reveals that the loyalty program surpassed the non-loyalty program in total sales in 2021 and in Average Order Value (AOV) in 2022.
+In an aggregate of the past four years, the non-loyalty program generally outperformed the loyalty program. However, a closer look at the trends reveals that the loyalty program surpassed the non-loyalty program in total sales in 2021 and in Average Order Value (AOV) in 2022. Evidence suggests that the loyalty program's AOV has been steadily growing, whereas the non-loyalty program's AOV has shown more volatility.
 
 ## Refund Rates
 Body Text 
