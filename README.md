@@ -38,6 +38,8 @@ Body Text
 ## Loyalty Program
 In an aggregate of the past four years, the non-loyalty program ($17M) generally outperformed the loyalty program ($11M). However, a closer look at the trends reveals that the loyalty program surpassed the non-loyalty program in total sales in 2021 and in Average Order Value (AOV) in 2022. Evidence suggests that the loyalty program's AOV has been steadily growing, whereas the non-loyalty program's AOV has shown more volatility.
 
+<img width="450" alt="Screenshot 2024-10-24 184756" src="https://github.com/user-attachments/assets/54165ca8-94b2-4811-8074-a64dc5b6fc5c">
+
 ## Refund Rates
 Body Text 
 
