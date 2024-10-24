@@ -11,7 +11,9 @@ The project provides insights and recommendations on the following key areas:
 
 **Refunds** - Evaluation of return rates and products.
 
-The SQL queries performed to uncover these insights are found [here](https://github.com/madeleinevarda/elist_analysis/blob/main/Data%20Cleaning%20Change%20Log.png).
+The data cleaning change log can be found here. [here](https://github.com/madeleinevarda/elist_analysis/blob/main/Data%20Cleaning%20Change%20Log.png).
+
+ The SQL queries performed to uncover these insights are found here.
 
 ## ERD
 <img width="500" alt="ERD" src="https://github.com/user-attachments/assets/5add595f-9347-4568-9dd6-7f7e6e8297c3">
