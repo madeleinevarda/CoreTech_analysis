@@ -18,10 +18,6 @@ The SQL queries performed to uncover these insights are found here.
 ## ERD
 <img width="500" alt="ERD" src="https://github.com/user-attachments/assets/5add595f-9347-4568-9dd6-7f7e6e8297c3">
 
-## Data Cleaning Log
-
-<img width="900" alt="Screenshot 2024-10-16 174652" src="https://github.com/user-attachments/assets/88e3da45-4011-498f-8829-75777f9d6b38">
-
 # Deep-Dive Insights
 
 ## Sales Trends 
