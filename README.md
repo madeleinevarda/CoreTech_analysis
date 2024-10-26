@@ -17,14 +17,13 @@ Seasonality: Typically, February and October underperform compared to the preced
 
 
 ## Product Trends
-Body Text 
+
+<img width="450" alt="Screenshot 2024-10-26 130936" src="https://github.com/user-attachments/assets/ec59722d-d1c9-47e3-afab-ee07b2f51dac">
 
 ## Loyalty Program
 In an aggregate of the past four years, the non-loyalty program generally outperformed the loyalty program. However, a closer look at the trends reveals that the loyalty program surpassed the non-loyalty program in total sales in 2021 and in Average Order Value (AOV) in 2022. Evidence suggests that the loyalty program's AOV has been steadily growing, whereas the non-loyalty program's AOV has shown more volatility.
 
-<img width="450" alt="Screenshot 2024-10-24 184756" src="https://github.com/user-attachments/assets/54165ca8-94b2-4811-8074-a64dc5b6fc5c">
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/87090c5e-6aef-4b53-ac4b-e91c6b8cf24c">
+<img width="450" alt="Screenshot 2024-10-26 131252" src="https://github.com/user-attachments/assets/c8394569-a501-42be-a68b-ccda6701cb8b">
 
 ## Refund Rates
 Body Text 
