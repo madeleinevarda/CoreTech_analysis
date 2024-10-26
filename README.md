@@ -25,6 +25,8 @@ In an aggregate of the past four years, the non-loyalty program generally outper
 
 <img width="450" alt="Screenshot 2024-10-26 131252" src="https://github.com/user-attachments/assets/c8394569-a501-42be-a68b-ccda6701cb8b">
 
+<img width="450" alt="Screenshot 2024-10-26 153814" src="https://github.com/user-attachments/assets/bf069e75-bd87-4ad5-96af-2dc65ffd12f7">
+
 ## Refund Rates
 Body Text 
 
