@@ -11,6 +11,8 @@ The data cleaning change log can be found [here](https://github.com/madeleinevar
 
 ## Sales Trends 
 
+**Overview:**
+
 **Seasonality:** Typically, February and October underperform compared to the preceding months, while December and January boast high average sales due to the holiday season. Notably, in 2020, March sales surged 50% over February, an anomaly not reflecting the usual trend from 2019-2022, where March generally sees a modest increase over February.
 
 <img width="450" alt="Screenshot 2024-10-16 205022" src="https://github.com/user-attachments/assets/a422f168-2351-4c6a-82ca-dadf53214d78">
