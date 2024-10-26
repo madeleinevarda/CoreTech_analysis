@@ -18,9 +18,7 @@ The data cleaning change log can be found [here](https://github.com/madeleinevar
 
 ## Product Trends
 
-Gaming monitors and laptops are the core of elist's business. While they have consistently made up the majority of sales, at an overall average of x%, 2021 appears to be an outlier year with these categories making up almost the entirety of sales (X%). This disproportionate trend is noteworthy.
-
-Interestingly, there were no headphone sales reported in 2021, despite them historically making up an average of X%. This anomaly could be attributed to either unrecorded data or potential supply chain issues, disrupting the availability of headphones.
+Gaming monitors and laptops are the core of elist's revenue stream. While these categories historically account for approximately X% of total sales, 2021 stands out with an unprecedented concentration, reaching nearly X% of all transactions. Notably, headphone sales, which traditionally represent X% of revenue, were completely absent in 2021, potentially indicating either a data recording oversight or supply chain disruptions affecting product availability.   
 
 <img width="450" alt="Screenshot 2024-10-26 130936" src="https://github.com/user-attachments/assets/ec59722d-d1c9-47e3-afab-ee07b2f51dac">
 
