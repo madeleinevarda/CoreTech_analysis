@@ -11,12 +11,16 @@ The data cleaning change log can be found [here](https://github.com/madeleinevar
 
 ## Sales Trends 
 
-Seasonality: Typically, February and October underperform compared to the preceding months, while December and January boast high average sales due to the holiday season. Notably, in 2020, March sales surged 50% over February, an anomaly not reflecting the usual trend from 2019-2022, where March generally sees a modest increase over February.
+**Seasonality:** Typically, February and October underperform compared to the preceding months, while December and January boast high average sales due to the holiday season. Notably, in 2020, March sales surged 50% over February, an anomaly not reflecting the usual trend from 2019-2022, where March generally sees a modest increase over February.
 
 <img width="450" alt="Screenshot 2024-10-16 205022" src="https://github.com/user-attachments/assets/a422f168-2351-4c6a-82ca-dadf53214d78">
 
 
 ## Product Trends
+
+Gaming monitors and laptops are the core of elist's business. While they have consistently made up the majority of sales, at an overall average of x%, 2021 appears to be an outlier year with these categories making up almost the entirety of sales (X%). This disproportionate trend is noteworthy.
+
+Interestingly, there were no headphone sales reported in 2021, despite them historically making up an average of X%. This anomaly could be attributed to either unrecorded data or potential supply chain issues, disrupting the availability of headphones.
 
 <img width="450" alt="Screenshot 2024-10-26 130936" src="https://github.com/user-attachments/assets/ec59722d-d1c9-47e3-afab-ee07b2f51dac">
 
