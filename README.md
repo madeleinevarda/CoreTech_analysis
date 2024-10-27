@@ -32,22 +32,22 @@ Typically, February and October underperform compared to the preceding months, w
 Gaming monitors and laptops are the core of elist's revenue stream. While these categories historically account for approximately X% of total sales, 2021 stands out with an unprecedented concentration, reaching nearly X% of all transactions. Interestingly, headphone sales, which traditionally represent X% of revenue, were completely absent in 2021, potentially indicating either a data recording oversight or supply chain disruptions affecting product availability.   
 
 <p align='center'>
-<img width="450" alt="Screenshot 2024-10-26 130936" src="https://github.com/user-attachments/assets/ec59722d-d1c9-47e3-afab-ee07b2f51dac">
+<img width="450" alt="Screenshot 2024-10-27 124110" src="https://github.com/user-attachments/assets/f5151757-6876-461c-9811-358776d135ac">
 </p>
 
 ## Loyalty Program
 In an aggregate of the past four years, the non-loyalty program generally outperformed the loyalty program. However, a closer look at the trends reveals that the loyalty program surpassed the non-loyalty program in total sales in 2021 and in Average Order Value (AOV) in 2022. Evidence suggests that the loyalty program's AOV has been steadily growing, as opposed to the volatile non-loyalty program. 
 
 <p align='center'>
-<img width="450" alt="Screenshot 2024-10-26 131252" src="https://github.com/user-attachments/assets/c8394569-a501-42be-a68b-ccda6701cb8b">
-</p>
-
-<p align='center'>
-<img width="450" alt="Screenshot 2024-10-26 153814" src="https://github.com/user-attachments/assets/bf069e75-bd87-4ad5-96af-2dc65ffd12f7">
+<img width="1000" alt="Screenshot 2024-10-27 124932" src="https://github.com/user-attachments/assets/4f88737c-39cf-4166-b018-53afc2e5b2d4">
 </p>
 
 ## Refund Rates
-Body Text 
+Body Text
+
+<p align='center'>
+<img width="1000" alt="Screenshot 2024-10-27 124414" src="https://github.com/user-attachments/assets/6f687c25-4e99-4c73-b9ec-bac99e2b605b">
+</p>
 
 # Recommendations
 Body Text
