@@ -39,14 +39,14 @@ Gaming monitors and laptops are the core of elist's revenue stream. While these 
 In an aggregate of the past four years, the non-loyalty program generally outperformed the loyalty program. However, a closer look at the trends reveals that the loyalty program surpassed the non-loyalty program in total sales in 2021 and in Average Order Value (AOV) in 2022. Evidence suggests that the loyalty program's AOV has been steadily growing, as opposed to the volatile non-loyalty program. 
 
 <p align='center'>
-<img width="1000" alt="Screenshot 2024-10-27 124932" src="https://github.com/user-attachments/assets/4f88737c-39cf-4166-b018-53afc2e5b2d4">
+<img width="1000" alt="Screenshot 2024-10-27 125306" src="https://github.com/user-attachments/assets/c0ec3506-9c0c-460c-b342-a7c9e5497320">
 </p>
 
 ## Refund Rates
 Body Text
 
 <p align='center'>
-<img width="1000" alt="Screenshot 2024-10-27 124414" src="https://github.com/user-attachments/assets/6f687c25-4e99-4c73-b9ec-bac99e2b605b">
+<img width="1000" alt="Screenshot 2024-10-27 125513" src="https://github.com/user-attachments/assets/085f9015-470e-4f77-b3bb-98a8afd66a9a">
 </p>
 
 # Recommendations
