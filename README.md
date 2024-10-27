@@ -16,7 +16,7 @@ The data cleaning change log can be found [here](https://github.com/madeleinevar
 From 2019-2022, over 108K orders generated $28M in sales, with both metrics showing a 28% growth increase over this four-year period. Particularly noteworthy, sales surged dramatically by X% in 2020 during the onset of the pandemic, as consumer purchasing patterns pivoted sharply toward online ordering. However, this momentum did not sustain through 2021 and 2022, as trends in sales, average order value (AOV), and order count showed substantial declines by X%. Finding ways to maintain the value captured during 2020 and 2021 is key to continue towards sustained long term growth.
 
 <p align='center'>
-<img width="425" alt="Screenshot 2024-10-26 204201" src="https://github.com/user-attachments/assets/a5943fee-9cae-4251-81de-9398f7e64088">
+<img width="425" alt="Screenshot 2024-10-26 210157" src="https://github.com/user-attachments/assets/8fc74992-c6ba-4785-bdca-4c228b96370a">
 </p>
 
 **Seasonality:**
@@ -24,7 +24,7 @@ From 2019-2022, over 108K orders generated $28M in sales, with both metrics show
 Typically, February and October underperform compared to the preceding months, while December and January boast high average sales due to the holiday season. Notably, in 2020, March sales surged 50% over February, an anomaly not reflecting the usual trend from 2019-2022, where March generally sees a modest increase over February.
 
 <p align='center'>
-<img width="450" alt="Screenshot 2024-10-16 205022" src="https://github.com/user-attachments/assets/a422f168-2351-4c6a-82ca-dadf53214d78">
+<img width="450" alt="Screenshot 2024-10-26 205923" src="https://github.com/user-attachments/assets/1e9662c4-2f65-4953-8ab9-218034c5fd31">
 </p>
 
 ## Product Trends
