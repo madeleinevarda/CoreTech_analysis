@@ -29,14 +29,14 @@ Typically, February and October underperform compared to the preceding months, w
 
 ## Product Trends
 
-Gaming monitors and laptops are the core of elist's revenue stream. While these categories historically account for approximately X% of total sales, 2021 stands out with an unprecedented concentration, reaching nearly X% of all transactions. Notably, headphone sales, which traditionally represent X% of revenue, were completely absent in 2021, potentially indicating either a data recording oversight or supply chain disruptions affecting product availability.   
+Gaming monitors and laptops are the core of elist's revenue stream. While these categories historically account for approximately X% of total sales, 2021 stands out with an unprecedented concentration, reaching nearly X% of all transactions. Interestingly, headphone sales, which traditionally represent X% of revenue, were completely absent in 2021, potentially indicating either a data recording oversight or supply chain disruptions affecting product availability.   
 
 <p align='center'>
 <img width="450" alt="Screenshot 2024-10-26 130936" src="https://github.com/user-attachments/assets/ec59722d-d1c9-47e3-afab-ee07b2f51dac">
 </p>
 
 ## Loyalty Program
-In an aggregate of the past four years, the non-loyalty program generally outperformed the loyalty program. However, a closer look at the trends reveals that the loyalty program surpassed the non-loyalty program in total sales in 2021 and in Average Order Value (AOV) in 2022. Evidence suggests that the loyalty program's AOV has been steadily growing, whereas the non-loyalty program's AOV has shown more volatility.
+In an aggregate of the past four years, the non-loyalty program generally outperformed the loyalty program. However, a closer look at the trends reveals that the loyalty program surpassed the non-loyalty program in total sales in 2021 and in Average Order Value (AOV) in 2022. Evidence suggests that the loyalty program's AOV has been steadily growing, as opposed to the volatile non-loyalty program. 
 
 <p align='center'>
 <img width="450" alt="Screenshot 2024-10-26 131252" src="https://github.com/user-attachments/assets/c8394569-a501-42be-a68b-ccda6701cb8b">
