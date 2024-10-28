@@ -52,13 +52,16 @@ Gaming monitors and laptops have consistently made up most of our refunds (X%). 
 # Recommendations
 
 ## Sales 
-Body Text
+* Re-engage past customers, with a heavy focus on the customer base from 2020 to 2021 by launching targeted campaigns to re-engage them.
+*  Address underperforming months like February and October with special promotions, product launches, or events to boost sales.
 
 ## Product 
-Body Text
+* Implement cross-selling strategies to encourage customers to purchase accessories like headphones with their gaming monitors and laptops.
+* Conduct regular audits to ensure accurate data recording and tracking mechanisms to prevent overshight and missing sales data. 
 
 ## Loyalty Program
-Body Text
+* Given the steady growth in AOV for the loyalty program, consider enhancing its benefits to attract more customers by offering exclusive discounts, early access to sales, and special rewards to increase its appeal.
+* Segment loyalty program members based on their purchasing behavior. Develop targeted marketing campaigns for each segment to maximize potential.
 
 ## Refund Rates
 *  Gaming monitors and laptops consistently account for the majority of refunds. This highlights potential areas for improvement, such as product quality checks or enhanced customer support for these items. Understanding why these specific categories dominate refunds could offer actionable insights to reduce return rates and improve customer satisfaction.
