@@ -64,6 +64,6 @@ Gaming monitors and laptops have consistently made up most of our refunds (X%). 
 * Segment loyalty program members based on their purchasing behavior. Develop targeted marketing campaigns for each segment to maximize potential.
 
 ## Refund Rates
-*  Gaming monitors and laptops consistently account for the majority of refunds. This highlights potential areas for improvement, such as product quality checks or enhanced customer support for these items. Understanding why these specific categories dominate refunds could offer actionable insights to reduce return rates and improve customer satisfaction.
+* Implement product quality checks or enhanced customer support for most frequently refunded products. Understanding why gaming monitors and laptops dominate refunds could offer actionable insights to reduce return rates and improve customer satisfaction.
 *  Investigate 2021 trends to further analyze why refunds decreased despite increased sales. Identify specific changes that impacted this period, which could help maintain a low refund rate.
 *  Confirm whether a no-refund policy was implemented or if no data was collected in 2022.
