@@ -50,7 +50,10 @@ In an aggregate of the past four years, the non-loyalty program generally outper
 </p>
 
 ## Refund Rates
-Gaming monitors and laptops have consistently made up most of our refunds (X%). Looking at broader refund trends, 2021, overall refund rates decreased (X%), an unusual trend since sales and refunds usually increase in tandem. Higher sales but fewer returns in 2021 might be due to missing refund data, indicating either tracking issues or a potential no-refund policy. If this policy began in 2021, it would significantly influence purchasing decisions and customer satisfaction as well as explaining the lack of refund data for 2022.
+
+Headphones, making up an average of 45% of all product sales, demonstrate one of the lowest average return frequencies among all products (2%). In contrast, laptops (6%) and gaming monitors (22%), which sell in much smaller quantities, experience the highest rate of returns with a maximum of 18%. This pattern aligns with typical consumer behavior, as customers often purchase several headphone sets during the operational lifetime of a single laptop. 
+
+The sudden decline in returns observed in 2021 could be attributed to incomplete refund data, suggesting either data tracking complications or the implementation of new return restrictions. If such a no-refund policy was introduced in 2021, it would not only explain the absence of return data in 2022 but also likely have substantial effects on both buying patterns and overall customer contentment.
 
 <p align='center'>
 <img width="1000" alt="Screenshot 2024-11-02 171726" src="https://github.com/user-attachments/assets/205c288a-a58a-4f23-b248-2710899f01a1">
@@ -60,8 +63,9 @@ Gaming monitors and laptops have consistently made up most of our refunds (X%). 
 
 ## Sales 
 * Re-engage past customers, with a heavy focus on the customer base from 2020 to 2021 by launching targeted campaigns to re-engage them.
-*  Address underperforming months like February and October with special promotions, product launches, or events to boost sales.
-
+* Address underperforming months like February and October with special promotions, product launches, or events to boost sales.
+* Capitalize on peak sale months, April and July, in Latin America and Novemeber and December for all other regions.
+  
 ## Product 
 * Implement cross-selling strategies to encourage customers to purchase accessories like headphones with their gaming monitors and laptops.
 * Conduct regular audits to ensure accurate data recording and tracking mechanisms to prevent overshight and missing sales data. 
@@ -71,6 +75,6 @@ Gaming monitors and laptops have consistently made up most of our refunds (X%). 
 * Segment loyalty program members based on their purchasing behavior. Develop targeted marketing campaigns for each segment to maximize potential.
 
 ## Refund Rates
+* Highlight the low return rate in marketing campaigns to emphasize product reliability.
 * Implement product quality checks or enhanced customer support for most frequently refunded products. Understanding why gaming monitors and laptops dominate refunds could offer actionable insights to reduce return rates and improve customer satisfaction.
-*  Investigate 2021 trends to further analyze why refunds decreased despite increased sales. Identify specific changes that impacted this period, which could help maintain a low refund rate.
-*  Confirm whether a no-refund policy was implemented or if no data was collected in 2022.
+* Confirm whether a no-refund policy was implemented or if no data was collected in 2022.
