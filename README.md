@@ -75,6 +75,6 @@ The sudden decline in returns observed in 2021 could be attributed to incomplete
 * Segment loyalty program members based on their purchasing behavior. Develop targeted marketing campaigns for each segment to maximize potential.
 
 ## Refund Rates
-* Highlight the low return rate in marketing campaigns to emphasize product reliability.
+* Highlight the low return rate of headphones in marketing campaigns to emphasize product reliability.
 * Implement product quality checks or enhanced customer support for most frequently refunded products. Understanding why gaming monitors and laptops dominate refunds could offer actionable insights to reduce return rates and improve customer satisfaction.
 * Confirm whether a no-refund policy was implemented or if no data was collected in 2022.
