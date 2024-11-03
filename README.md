@@ -6,7 +6,7 @@ The Entity Relationship Diagram can be found [here](https://github.com/madeleine
 
 The data cleaning change log can be found [here](https://github.com/madeleinevarda/elist_analysis/blob/main/Data%20Cleaning%20Change%20Log.png).
 
- The SQL queries performed to uncover these insights are found here.
+ The SQL queries performed to uncover these insights are found [here](https://github.com/madeleinevarda/CoreTech_analysis/blob/main/Queries.sql).
 
 # Deep-Dive Insights
 
@@ -14,7 +14,7 @@ The data cleaning change log can be found [here](https://github.com/madeleinevar
 
 **Overview:**
 
-From 2019-2022, over 108K orders generated $28M in sales, with both metrics showing a 28% growth increase over this four-year period. Particularly noteworthy, sales surged dramatically by over 6M in 2020 during the onset of the pandemic, as consumer purchasing patterns pivoted sharply toward online ordering. However, this momentum did not sustain through 2021 and 2022, as trends in sales (-46%), average order value (AOV) (-10%), and order count (-40%) showed substantial declines. Finding ways to maintain the value captured during 2020 and 2021 is key to continue towards sustained long term growth.
+From 2019-2022, over **108K orders generated $28M in sales, with both metrics showing a 28% growth increase** over this four-year period. Particularly noteworthy, **sales surged dramatically by over 6M in 2020** during the onset of the pandemic, as consumer purchasing patterns pivoted sharply toward online ordering. However, this momentum did not sustain through 2021 and 2022, as **trends in sales (-46%), average order value (AOV) (-10%), and order count (-40%) showed substantial declines.** Finding ways to maintain the value captured during 2020 and 2021 is key to continue towards sustained long term growth.
 
 <p align='center'>
 <img width="425" alt="Screenshot 2024-10-26 210157" src="https://github.com/user-attachments/assets/8fc74992-c6ba-4785-bdca-4c228b96370a">
@@ -22,9 +22,9 @@ From 2019-2022, over 108K orders generated $28M in sales, with both metrics show
 
 **Seasonality and Geographic Trends:**
 
-Typically, February and October underperform compared to the preceding months, while December and January boast high average sales due to the holiday season. Notably, in 2020, March sales surged 50% over February, an anomaly not reflecting the usual trend from 2019-2022, where March generally sees a modest increase over February.
+Typically, **February and October underperform** compared to the preceding months, while **December and January boast high average sales** due to the holiday season. Notably, **in 2020, March sales surged 50%** over February, an anomaly not reflecting the usual trend from 2019-2022, where March generally sees a modest increase over February.
 
-When broken down by regions, Latin America shows a distinct pattern from global trends. While most regions see a 20-25% increase from November to December during the holiday season, Latin America experiences more modest spikes (10%). Instead, their peak sales occur in April (+20%) and in July (+24%).
+When broken down by regions, Latin America shows a distinct pattern from global trends. While **most regions see a 20-25% increase from November to Decembe**r during the holiday season, **Latin America experiences more modest spikes (10%)**. Instead, their peak sales occur in April (+20%) and in July (+24%).
 
 <p align='center'>
 <img width="450" alt="Screenshot 2024-10-26 205923" src="https://github.com/user-attachments/assets/1e9662c4-2f65-4953-8ab9-218034c5fd31">
@@ -32,14 +32,14 @@ When broken down by regions, Latin America shows a distinct pattern from global 
 
 ## Product Trends
 
-Gaming monitors and laptops are the core of CoreTech's revenue stream. While these categories historically accounted for a maximum of 75% of total sales, 2021 stands out with an unprecedented concentration, reaching nearly 95% of all transactions. Interestingly, headphone sales, which previously represented 26% of revenue, were almost completely absent in 2021, potentially indicating either a data recording oversight or supply chain disruptions affecting product availability.   
+**Gaming monitors and laptops are the basis of CoreTech's revenue stream.** While these categories historically accounted for a maximum of 75% of total sales, 2021 stands out with an unprecedented concentration, **reaching nearly 95% of all transactions**. Interestingly, **headphone sales, which previously represented 26% of revenue, were almost completely absent in 2021**, potentially indicating either a data recording oversight or supply chain disruptions affecting product availability.   
 
 <p align='center'>
 <img width="550" alt="Screenshot 2024-10-27 172948" src="https://github.com/user-attachments/assets/e10d75ca-2008-4fb5-ada2-6a8ffa085515">
 </p>
 
 ## Loyalty Program
-In an aggregate of the past four years, the non-loyalty program generally outperformed the loyalty program, generating almost double (17M). However, a closer look at the trends reveals that the loyalty program surpassed the non-loyalty program in total sales in 2021 and in Average Order Value (AOV) in 2022. Evidence suggests that the loyalty program's AOV has been steadily growing, as opposed to the volatile non-loyalty program. 
+In an aggregate of the past four years, the **non-loyalty program generally outperformed the loyalty program, generating almost double (17M).** However, a closer look at the trends reveals that the loyalty program surpassed the non-loyalty program in total sales in 2021 and in Average Order Value (AOV) in 2022. **Loyalty customers also take almost 30% less time to make a purchase**, with 1.6 months after account creation vs. 2.3 months for non-loyalty. Evidence suggests that the loyalty program's AOV has been steadily growing, as opposed to the volatile non-loyalty program. 
 
 <p align='center'>
 <img width="450" alt="Screenshot 2024-11-02 133145" src="https://github.com/user-attachments/assets/c2ee4732-94bc-48cc-9546-c3881698278b">
@@ -51,9 +51,9 @@ In an aggregate of the past four years, the non-loyalty program generally outper
 
 ## Refund Rates
 
-Headphones, making up an average of 45% of all product sales, demonstrate one of the lowest average return frequencies among all products (2%). In contrast, laptops (6%) and gaming monitors (22%), which sell in much smaller quantities, experience the highest rate of returns with a maximum of 18%. This pattern aligns with typical consumer behavior, as customers often purchase several headphone sets during the operational lifetime of a single laptop. 
+**Headphones, making up an average of 45% of all product sales, demonstrate one of the lowest average return frequencies among all products (2%).** In contrast, **laptops (6%) and gaming monitors (22%), which sell in much smaller quantities, experience the highest rate of returns with a maximum of 18%**. This pattern aligns with typical consumer behavior, as customers often purchase several headphone sets during the operational lifetime of a single laptop. 
 
-The sudden decline in returns observed in 2021 could be attributed to incomplete refund data, suggesting either data tracking complications or the implementation of new return restrictions. If such a no-refund policy was introduced in 2021, it would not only explain the absence of return data in 2022 but also likely have substantial effects on both buying patterns and overall customer contentment.
+**The sudden decline in returns observed in 2021 could be attributed to incomplete refund data**, suggesting either data tracking complications or the implementation of new return restrictions. If such a no-refund policy was introduced in 2021, it would not only explain the absence of return data in 2022 but also likely have substantial effects on both buying patterns and overall customer contentment.
 
 <p align='center'>
 <img width="1000" alt="Screenshot 2024-11-02 171726" src="https://github.com/user-attachments/assets/205c288a-a58a-4f23-b248-2710899f01a1">
