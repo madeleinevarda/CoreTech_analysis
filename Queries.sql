@@ -130,19 +130,14 @@ SELECT
   customers.loyalty_program, 
   ROUND(AVG(DATE_DIFF(order_status.purchase_ts, customers.created_on, day)), 1) AS days_to_purchase, 
   ROUND(AVG(DATE_DIFF(order_status.purchase_ts, customers.created_on, month)), 1) AS months_to_purchase 
-FROM 
-  core.customers 
-LEFT JOIN 
-  core.orders
+FROM core.customers 
+LEFT JOIN core.orders
   ON customers.id = orders.customer_id 
-LEFT JOIN 
-  core.order_status
+LEFT JOIN core.order_status
   ON order_status.order_id = orders.id 
-GROUP BY 
-    1;
+GROUP BY 1;
 
 -- Find the time to purchase per loyalty program and per purchase platform. Return the number of records to benchmark the severity of nulls.
-
 
 SELECT 
   customers.loyalty_program, 
@@ -150,16 +145,12 @@ SELECT
   ROUND(AVG(DATE_DIFF(order_status.purchase_ts, customers.created_on, day)), 1) AS days_to_purchase, 
   ROUND(AVG(DATE_DIFF(order_status.purchase_ts, customers.created_on, month)), 1) AS months_to_purchase, 
   COUNT(*) AS row_count
-FROM 
-  core.customers
-JOIN 
-  core.orders
+FROM core.customers
+JOIN core.orders
   ON customers.id = orders.customer_id 
-JOIN 
-  core.order_status 
+JOIN core.order_status 
   ON order_status.order_id = orders.id 
-GROUP BY 
-  1,2;
+GROUP BY 1,2;
 
 
 
