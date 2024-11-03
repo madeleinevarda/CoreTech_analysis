@@ -17,7 +17,7 @@ The data cleaning change log can be found [here](https://github.com/madeleinevar
 From 2019-2022, over **108K orders generated $28M in sales, with both metrics showing a 28% growth increase** over this four-year period. Particularly noteworthy, **sales surged dramatically by over 6M in 2020** during the onset of the pandemic, as consumer purchasing patterns pivoted sharply toward online ordering. However, this momentum did not sustain through 2021 and 2022, as **trends in sales (-46%), average order value (AOV) (-10%), and order count (-40%) showed substantial declines.** Finding ways to maintain the value captured during 2020 and 2021 is key to continue towards sustained long term growth.
 
 <p align='center'>
-<img width="425" alt="Screenshot 2024-10-26 210157" src="https://github.com/user-attachments/assets/8fc74992-c6ba-4785-bdca-4c228b96370a">
+<img width="450" alt="Screenshot 2024-10-26 210157" src="https://github.com/user-attachments/assets/8fc74992-c6ba-4785-bdca-4c228b96370a">
 </p>
 
 **Seasonality and Geographic Trends:**
@@ -27,7 +27,7 @@ Typically, **February and October underperform** compared to the preceding month
 When broken down by regions, Latin America shows a distinct pattern from global trends. While **most regions see a 20-25% increase from November to Decembe**r during the holiday season, **Latin America experiences more modest spikes (10%)**. Instead, their peak sales occur in April (+20%) and in July (+24%).
 
 <p align='center'>
-<img width="450" alt="Screenshot 2024-10-26 205923" src="https://github.com/user-attachments/assets/1e9662c4-2f65-4953-8ab9-218034c5fd31">
+<img width="500" alt="Screenshot 2024-11-03 125940" src="https://github.com/user-attachments/assets/c43e1a23-f27b-4540-8397-dc329d89c0b9">
 </p>
 
 ## Product Trends
