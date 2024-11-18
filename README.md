@@ -1,6 +1,6 @@
 # CoreTech - E-commerce Analysis
 
-CoreTech is a global e-commerce company that has sold more than 28M dollars of popular electronics since its inception in 2019. With vast amounts of previously underutilized data on sales, product offerings, the loyalty program, and refunds, we are now thoroughly analyzing this information to uncover critical insights. This analysis aims to enhance CoreTechs's commercial performance and has been prepared for presentation to key stakeholders to drive informed company recommendations.
+CoreTech is a global e-commerce company that has sold more than 28M dollars of popular electronics since its inception in 2019. With vast amounts of previously underutilized data on sales, product offerings, the loyalty program, and refunds, I am partnering with the head of the Operations team to thoroughly analyze this information and uncover critical insights. This analysis and reccomendations will be used to enhance CoreTechs's commercial performance across the sales, marketing, and product teams. 
 
 The Entity Relationship Diagram can be found [here](https://github.com/madeleinevarda/elist_analysis/blob/main/ERD.png).
 
