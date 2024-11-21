@@ -6,7 +6,7 @@ The Entity Relationship Diagram can be found [here](https://github.com/madeleine
 
 The data cleaning change log can be found [here](https://github.com/madeleinevarda/elist_analysis/blob/main/Data%20Cleaning%20Change%20Log.png).
 
- The SQL queries performed to uncover these insights are found [here](https://github.com/madeleinevarda/CoreTech_analysis/blob/main/Queries.sql).
+ The SQL queries performed to uncover these insights can be found [here](https://github.com/madeleinevarda/CoreTech_analysis/blob/main/Queries.sql).
 
 # Deep-Dive Insights
 
